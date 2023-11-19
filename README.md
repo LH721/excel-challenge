@@ -1,1 +1,1 @@
-# This is week 1 homework.
+# This is Lulu week 1 homework.
